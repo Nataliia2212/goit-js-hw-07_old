@@ -48,7 +48,7 @@ function onClickImg(event) {
         if (event.code === 'Escape') {
             instance.close()
         }
-    } 
+    }   
 }
       
-   
+ 
